@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "experimentalDecorators": true,
+    "module": "commonjs",
+    "target": "es2016",
+    "noImplicitAny": false,
+    "emitDecoratorMetadata": true,
+    "outDir": "./dist",
+    "sourceMap": true,
+    "esModuleInterop": true,
+    "allowJs": true,
+    "declaration": true,
+    "skipLibCheck": true
+  },
+  "include": ["src/**/*"]
+}
